@@ -21,6 +21,4 @@ while(distance > 10)
     distance = distance - (FFS + SFS) * time;
     count += 1;
 }
-Console.WriteLine("Собака бежит "); 
-Console.WriteLine(count); 
-Console.WriteLine("раз"); 
+Console.WriteLine("Собака пробежала " + count + " раз(а)"); 
