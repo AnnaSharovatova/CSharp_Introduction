@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\obj\Debug\net6.0\TypesOfMethod.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\obj\Debug\net6.0\TypesOfMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\obj\Debug\net6.0\TypesOfMethod.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\obj\Debug\net6.0\TypesOfMethod.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\obj\Debug\net6.0\TypesOfMethod.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\bin\Debug\net6.0\TypesOfMethod.exe
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\bin\Debug\net6.0\TypesOfMethod.deps.json
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\bin\Debug\net6.0\TypesOfMethod.runtimeconfig.json
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\bin\Debug\net6.0\TypesOfMethod.dll
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\bin\Debug\net6.0\TypesOfMethod.pdb
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\obj\Debug\net6.0\TypesOfMethod.dll
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\obj\Debug\net6.0\refint\TypesOfMethod.dll
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\obj\Debug\net6.0\TypesOfMethod.pdb
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\obj\Debug\net6.0\TypesOfMethod.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Geek Brains\Знакомство с языком программирования C#\CSharp_Introduction\Examples_Lecture_3\TypesOfMethod\obj\Debug\net6.0\ref\TypesOfMethod.dll
