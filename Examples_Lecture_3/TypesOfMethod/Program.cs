@@ -48,15 +48,32 @@
 
 // Метод Вид 4 - что-то принимает. что-то возвращает.
 
+//string Method4(int count, string text)
+//{
+//    int i = 0;
+//    string result = string.Empty; // помещаем переменную result в пустую строкуб можно заменить на = "";
+
+//    while(i < count)
+//    {
+//        result = result + text;
+//        i++;
+//    }
+//    return result;
+//}
+
+//string res = Method4(10, "море");
+//Console.WriteLine(res);
+//}
+
+// или с использованием цикла for 
+    
 string Method4(int count, string text)
 {
-    int i = 0;
-    string result = string.Empty; // помещаем переменную result в пустую строкуб можно заменить на = "";
-
-    while(i < count)
+    
+    string result = string.Empty; // помещаем переменную result в пустую строкуб можно заменить на = ""
+    for(int i = 0; i < count; i++)
     {
         result = result + text;
-        i++;
     }
     return result;
 }
